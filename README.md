@@ -1,8 +1,9 @@
-![alt text](form.png)
-## FORM VALIDATION 
+![alt text](form_fetch-data.png)
+## FORM VALIDATION & FETCH USER DATA API
 ### overview  
 - The form checks for credential validation, gives feedback if the user details are valid and prints error messages otherwise on form submission.  
-- The form is developed using the following technologies;
+- The fetch-data Javascript scripts  asynchronously fetches user data from a public API and displays each user’s name on a web page.  
+- The project is developed using the following technologies;
     - HMTL
     - CSS
     - Javascript
